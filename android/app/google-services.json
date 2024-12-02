@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662652280138",
+    "project_id": "harmonize-32e98",
+    "storage_bucket": "harmonize-32e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662652280138:android:77b9136e85f0af7b3d75b3",
+        "android_client_info": {
+          "package_name": "com.example.harmonize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuWYlWFnH0y-AeT2Oa1IMYpJHNfggO_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
